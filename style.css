@@ -1,0 +1,56 @@
+#w {
+    width: 500px;
+    height: 50px;
+    margin-left: 581px;
+    color: cadetblue;
+}
+body{
+    margin: 0px;
+}
+.form-reg{
+
+}
+.Re{
+    width: 400px;
+    margin-left: 570px;
+    color: cadetblue;
+}
+.reg{
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 560px;
+}
+.main{
+    background-color: #badc58 ;
+    width: 8000px;
+    height: 1000px;
+}
+/* .submit{
+    margin-left: 18px;
+    margin-top: 10px;
+}
+#cbtn{
+    margin-left: 108px;
+    margin-bottom: 100px;
+} */
+
+/* #G1{
+    margin-left: 50px;
+}
+#G2{
+    margin-left: 50px;
+}
+#G3{
+    margin-left: 50px;
+} */
+
+.radio{
+    float: right;
+    float: left;
+}
+.loin{
+    float: left;
+    margin-top: 280px;
+    margin-left: 10px;
+}
